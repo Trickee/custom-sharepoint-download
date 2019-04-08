@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c5a9c4e-3d79-42e8-b8cb-c80c07516e36" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/sharepy-helper/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharepy-helper/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharepy-helper/saml-templates/sp-adfs-stsAuthAssertion.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharepy-helper/saml-templates/sp-adfs-stsBinaryToken.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharepy-helper/saml-templates/sp-online.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharepy-helper/saml-templates/sp-updateDigest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sharepy-helper/session.py" afterDir="false" />
-    </list>
+    <list default="true" id="7c5a9c4e-3d79-42e8-b8cb-c80c07516e36" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +14,8 @@
       <file leaf-file-name="auth.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sharepy-helper/auth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8283">
-              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state relative-caret-position="1110">
+              <caret line="302" column="69" lean-forward="true" selection-start-line="302" selection-start-column="69" selection-end-line="302" selection-end-column="69" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -48,7 +40,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="1" />
     <option name="width" value="1914" />
     <option name="height" value="1031" />
@@ -112,7 +104,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960339" />
@@ -150,8 +142,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sharepy-helper/auth.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8283">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        <state relative-caret-position="1110">
+          <caret line="302" column="69" lean-forward="true" selection-start-line="302" selection-start-column="69" selection-end-line="302" selection-end-column="69" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
